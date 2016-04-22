@@ -1,11 +1,30 @@
 {
+  "blacklist": [
+    "bkbox",
+    "dexxtreme",
+    "hhoover",
+    "mattjbarlow01",
+    "rackdevopseng9",
+    "racker_cstevens",
+    "racker_josep",
+    "racker_justinp",
+    "racker_marcom"
+  ],
   "whitelist": [
+    "ace",
+    "darrinw",
+    "disengage00",
+    "doadummy",
     "evan4498",
     "helmut-knoepfle",
     "jarosser06",
     "julienb_racker",
+    "kettlewell",
+    "kgeorga",
     "lachlanmunro",
+    "lego1138",
     "mlattanzi",
+    "p_at_rax",
     "racker_andreypadiy",
     "racker_anjani",
     "racker_balys",
@@ -14,7 +33,6 @@
     "racker_chrism",
     "racker_chrismendoza",
     "racker_cianb",
-    "racker_cstevens",
     "racker_davidh",
     "racker_denzilh",
     "racker_fernandoh",
@@ -37,6 +55,7 @@
     "racker_piersc",
     "racker_rgfortune",
     "racker_richardm",
+    "rackerroush",
     "racker_sia",
     "racker_simon",
     "racker_siso",
@@ -44,19 +63,9 @@
     "racker_surajt",
     "racker_victorp",
     "racker_walterlenuzza",
-    "rackerroush",
     "rackops",
     "rax_waldo",
+    "sheppy",
     "theborch"
-  ],
-  "blacklist": [
-    "bkbox",
-    "dexxtreme",
-    "hhoover",
-    "mattjbarlow01",
-    "rackdevopseng9",
-    "racker_josep",
-    "racker_justinp",
-    "racker_marcom"
   ]
 }
