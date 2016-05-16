@@ -14,7 +14,9 @@
     "racker_justinp",
     "racker_marcom",
     "racker_nicoe",
-    "racker_siso"
+    "racker_siso",
+    "racker_victorp",
+    "racker_walterlenuzza"
   ],
   "whitelist": [
     "ace",
@@ -61,8 +63,6 @@
     "racker_simon",
     "racker_slava",
     "racker_surajt",
-    "racker_victorp",
-    "racker_walterlenuzza",
     "rackops",
     "rax_waldo",
     "sheppy",
