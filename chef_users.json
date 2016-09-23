@@ -2,8 +2,11 @@
   "blacklist": [
     "bkbox",
     "dexxtreme",
+    "disengage00",
     "doadummy",
+    "helmut-knoepfle",
     "hhoover",
+    "julienb_racker",
     "kettlewell",
     "lachlanmunro",
     "mattjbarlow01",
@@ -21,11 +24,8 @@
   "whitelist": [
     "ace",
     "darrinw",
-    "disengage00",
     "evan4498",
-    "helmut-knoepfle",
     "jarosser06",
-    "julienb_racker",
     "kgeorga",
     "lego1138",
     "mlattanzi",
