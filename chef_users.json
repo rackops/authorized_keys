@@ -23,7 +23,8 @@
     "racker_victorp",
     "racker_walterlenuzza",
     "racker_simon",
-    "theborch"
+    "theborch",
+    "sheppy"
   ],
   "whitelist": [
     "ace",
@@ -65,7 +66,6 @@
     "racker_slava",
     "racker_surajt",
     "rackops",
-    "rax_waldo",
-    "sheppy"
+    "rax_waldo"
   ]
 }
